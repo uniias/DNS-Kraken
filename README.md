@@ -30,7 +30,7 @@ DNS Kraken is a CLI tool designed to perform various DNS enumeration tasks, incl
 Feel free to submit issues or pull requests to enhance the tool.
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE] file for details.
 
 # Disclaimer
 This tool is designed for educational and authorized use only. It is not intended for malicious activities or unauthorized access.
